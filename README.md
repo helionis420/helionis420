@@ -34,9 +34,7 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="left" alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <br>
-<br>
-<br>
-<br>
+
 #Contact me:
 <div style="align-center">
      <p align="center" style="margin-top: 50px;">
