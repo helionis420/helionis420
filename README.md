@@ -2,15 +2,16 @@
 
 ### I'm a Full Stack developer 📈
 
-- 🧠 I’m interested in FullStack and Since 2022, I've dived into AI a great interest.
+- 🧠 I’m interested in FullStack. Since 2022, I've dived into AI a great interest.
 - 👨🏽‍🏫 Currently learning LangChain, Go,& Machine Learning.
 - 📚  I’m constantly learning new tools and techniques.
 - 💻  I’m looking forward to collaborate with you on interesting projects.
--  
+
 
 #### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="left" alt="TypeScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/Typescript-original.svg">
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 <img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
 <img align="left" alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
