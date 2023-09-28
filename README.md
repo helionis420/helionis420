@@ -15,7 +15,7 @@
 - 👨🏽‍🏫 Currently learning LangChain, Go,& Machine Learning.
 - 📚  I’m constantly learning new tools and techniques.
 - 💻  I’m looking forward to collaborate with you on interesting projects.
-- 🏢 6+ years' experience as a professional software architect.
+- 🏢 3+ years' experience as a professional software architect.
 
 
 
@@ -38,7 +38,7 @@
 # 💌 Contact me:
 <div style="align-center">
      <p align="center" style="margin-top: 50px;">
-            <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a>
+            <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a>
           &nbsp;&nbsp;
           <a href="mailto:blacktigerbusinesswork@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
           &nbsp;&nbsp;
