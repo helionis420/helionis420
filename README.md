@@ -1,6 +1,6 @@
 <img src="chatbot.gif" alt="MERN" width="850px" height="359px">
 
-## Hi there 👋 , I’m Eric!
+## Hi there 👋 , I’m Passionate Full Stack developer!
 
 <div align="center">
   <span style="font-size: 24px; line-height: 1.5;">
