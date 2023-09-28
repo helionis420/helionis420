@@ -28,20 +28,20 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="left" alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 
-# ContactInfo:
-<div align="center">
-    <p align="center" style="margin-top: 50px;">
-      <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a>
-      &nbsp;&nbsp;
-      <a href="mailto:blacktigerbusinesswork@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
-      &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
-      &nbsp;&nbsp;
-      <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png" width="60" /></a>
-      &nbsp;&nbsp;
-      <a href="https://t.me/erossdev0220" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
-    </p>
-</div>
+## ContactInfo:
+  <div align="center">
+      <p align="center" style="margin-top: 50px;">
+        <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a>
+        &nbsp;&nbsp;
+        <a href="mailto:blacktigerbusinesswork@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
+        &nbsp;&nbsp;
+        <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
+        &nbsp;&nbsp;
+        <a href="https://join.skype.com/invite/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png" width="60" /></a>
+        &nbsp;&nbsp;
+        <a href="https://t.me/erossdev0220" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
+      </p>
+  </div>
 
 
 <!---
