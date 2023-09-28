@@ -1,3 +1,5 @@
+<img src="/chatbot.gif" alt="MERN" width="850px" height="359px">
+
 ## Hi there 👋 , I’m Eric!
 
 <div align="center">
