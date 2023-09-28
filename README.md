@@ -35,6 +35,9 @@
 <img align="left" alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <br>
 
+
+
+
 # 💌 Contact me:
 <div style="align-center">
      <p align="center" style="margin-top: 50px;">
