@@ -2,8 +2,8 @@
 
 <div align="center">
   <span style="font-size: 24px; line-height: 1.5;">
-    🐍 <b>Node.js</b> | 👩‍💻 <b>Python</b> | 💻 <b>Typescript</b> | 👍 <b>Javascript</b> |📚 <b>Golang</b>| 📚 <b>LangChain</b> | 📝 <b>Bot     
-     Development</b>
+    🐍 <b>Node.js</b> | 👩‍💻 <b>Python</b> | 💻 <b>Typescript</b> | 👍 <b>Javascript</b>|📚 <b>Golang</b> | 👍 <b>OpenAI</b> | 📚 <b>LangChain</b> | 📝 <b>Bot     
+     Development</b> 
   </span>
 </div>
 
