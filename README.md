@@ -16,7 +16,7 @@
 - 🏢 6+ years' experience as a professional software architect.
 
 
-# #💻 Tech Stack & Language:
+# 💻 Tech Stack & Language:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -31,7 +31,7 @@
 <img align="left" alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <br>
 
-## Contact me:
+#Contact me:
 <div style="align-center">
      <p align="center" style="margin-top: 50px;">
             <a href="https://www.linkedin.com/in/suzukidavid" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a>
