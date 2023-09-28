@@ -7,6 +7,8 @@
   </span>
 </div>
 
+
+
 # 💫 About Me:
 
 - 🧠 I’m interested in FullStack. Since 2022, I've dived into AI a great interest.
@@ -14,6 +16,8 @@
 - 📚  I’m constantly learning new tools and techniques.
 - 💻  I’m looking forward to collaborate with you on interesting projects.
 - 🏢 6+ years' experience as a professional software architect.
+
+
 
 
 # 💻 Tech Stack & Language:
@@ -30,6 +34,9 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="left" alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <br>
+
+
+
 
 #Contact me:
 <div style="align-center">
