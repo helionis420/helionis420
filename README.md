@@ -44,7 +44,7 @@
           &nbsp;&nbsp;
           <a href="https://discord.gg/7e6puTtg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png" width="60" /></a>
           &nbsp;&nbsp;
-          <a href="https://t.me/erossdev0220" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
+          <a href="https://t.me/eross220" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
         </p>
 </div>
 
