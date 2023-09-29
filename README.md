@@ -8,6 +8,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;3+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
+<p align="center">
+  <img src="chatbot.gif" alt="MERN" width="850px" height="359px">
+</p>
 
 <div align="center">
   <span style="font-size: 24px; line-height: 1.5;">
@@ -15,7 +18,7 @@
      Development</b> 
   </span>
 </div>
-<img src="chatbot.gif" alt="MERN" width="850px" height="359px">
+
 # 💫 About Me:
 
 - 🧠 I’m interested in FullStack. Since 2022, I've dived into AI a great interest.
