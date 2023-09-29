@@ -1,7 +1,15 @@
 <img src="chatbot.gif" alt="MERN" width="850px" height="359px">
 
 ## Hi there 👋 , I’m Passionate Full Stack developer!
+<p align="center">
+  <img src="Logo.gif" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;3+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+  </a>
+</p>
 <div align="center">
   <span style="font-size: 24px; line-height: 1.5;">
     🐍 <b>Node.js</b> | 👩‍💻 <b>Python</b> | 💻 <b>Typescript</b> | 👍 <b>Javascript</b>|📚 <b>Golang</b> | 👍 <b>OpenAI</b> | 📚 <b>LangChain</b> | 📝 <b>Bot     
