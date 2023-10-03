@@ -53,8 +53,6 @@
 # 💌Contact me:
 <div style="align-center">
      <p align="center" style="margin-top: 50px;">
-          <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png" width="60" /></a>
-          &nbsp;&nbsp;
           <a href="mailto:blacktigerbusinesswork@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
           &nbsp;&nbsp;
           <a href="https://join.skype.com/invite/CYkjV9PBFlcT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
