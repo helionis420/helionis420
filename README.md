@@ -1,4 +1,4 @@
-## Hi there 👋 , I’m H@ker Dev!
+## Hi there 👋 , I’m H@cker Dev!
 <p align="center">
   <img src="Logo.gif" alt="LOGO" width="850px" height="359px" />
 </p>
