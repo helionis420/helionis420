@@ -50,19 +50,6 @@
 <img align="left" alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
 <br>
 
-# 💌Contact me:
-<div style="align-center">
-     <p align="center" style="margin-top: 50px;">
-          <a href="mailto:blacktigerbusinesswork@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="60" /></a>
-          &nbsp;&nbsp;
-          <a href="https://join.skype.com/invite/CYkjV9PBFlcT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png" width="60" /></a>
-          &nbsp;&nbsp;
-          <a href="https://discord.gg/7e6puTtg" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png" width="60" /></a>
-          &nbsp;&nbsp;
-          <a href="https://t.me/eross220" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png" width="60" /></a>
-        </p>
-</div>
-
 
 <!---
 bmarroc/bmarroc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
