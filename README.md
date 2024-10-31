@@ -14,7 +14,7 @@ This is Eross.
 - 👨🏽‍🏫 Currently learning LangChain, Go,& Machine Learning.
 - 📚  I’m constantly learning new tools and techniques.
 - 💻  I’m looking forward to collaborate with you on interesting projects.
-- 🏢 3+ years' experience as a professional software architect.
+- 🏢 5+ years' experience as a professional software architect.
 
 
 # 💻 Tech Stack & Language:
