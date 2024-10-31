@@ -1,23 +1,5 @@
 ## Hi there 👋
-<p align="center">
-  <img src="Logo.gif" alt="LOGO" width="850px" height="359px" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;3+%2B%20years%20of%20working%20experience;Being%20creative&center=true&width=380&height=45">
-  </a>
-</p>
-
-<p align="center">
-  <img src="chatbot.gif" alt="ChatBOT" width="850px" height="359px">
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AI|ChatBOT%20developer;1+%2B%20years%20of%20working%20experience;Being%20passionate&center=true&width=380&height=45">
-  </a>
-</p>
-
+This is Eross.
 
 <div align="center">
   <span style="font-size: 24px; line-height: 1.5;">
