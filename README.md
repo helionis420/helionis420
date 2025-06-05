@@ -29,8 +29,6 @@
     Many more are private—contact me for details or collaboration!
   </b>
   <br><br>
-   👉  [My Projects on GitHub](https://github.com/eross220/-My-Projects-)
-  
   <a href="https://github.com/eross220/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;">
    My Projects on GitHub 👈
   </a>
