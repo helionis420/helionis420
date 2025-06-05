@@ -38,11 +38,11 @@
 
 ---
 ## 📫 Contact Me
-<p>
+<p align="center">
   <b>Email:</b> <a href="mailto:eross220@gmail.com">eross220@proton.me</a><br>
   <b>Discord:</b> <code>0x_eross220</code>
 </p>
 ---
-🤝 💕 👀 Follow me via Git 👪 💖 ****
+
 
 
