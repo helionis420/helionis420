@@ -21,11 +21,22 @@
 
 ---
 
-## 🏆 Past Works
+<h2 align="center" style="color:#ffb300;">🏆 <b>My Past Works</b> 🏆</h2>
 
-You can find my past works below. Some repositories are private, but feel free to reach out for more details or collaboration!
+<div align="center">
+  <b>
+    Explore my portfolio of blockchain, AI, and full-stack projects.<br>
+    Many more are private—contact me for details or collaboration!
+  </b>
+  <br><br>
+   👉  [My Projects on GitHub](https://github.com/eross220/-My-Projects-)
+  
+  <a href="https://github.com/eross220/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;">
+   My Projects on GitHub 👈
+  </a>
+</div>
 
-- 📂 [My Projects on GitHub](https://github.com/eross220/-My-Projects-)
+
 
 <!-- (Your project list goes here, as already in your README) -->
 
@@ -40,6 +51,3 @@ You can find my past works below. Some repositories are private, but feel free t
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eross220&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
