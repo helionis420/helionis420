@@ -30,7 +30,7 @@
   </b>
   <br><br>
   <a href="https://github.com/eross220/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;">
-   My Projects on GitHub 👈
+    👉 My Past Wors👈
   </a>
 </div>
 
