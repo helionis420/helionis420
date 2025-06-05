@@ -21,7 +21,7 @@
 
 ---
 
-<h2 align="center" style="color:#ffb300;">🏆 <b>My Past Works</b> 🏆</h2>
+<a href="https://github.com/eross220/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;"><h2 align="center" style="color:#ffb300;">🏆 <b>My Past Works</b> 🏆</h2></a>
 
 <div align="center">
   <b>
@@ -30,9 +30,6 @@
   </b>
   <br><br>
    🤝 💕 👀 <b>Follow me via Git</b> 👪 💖 <br>
-  <a href="https://github.com/eross220/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;">
-    👉 My Past Wors👈
-  </a>
 </div>
 
 
