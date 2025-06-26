@@ -1,13 +1,6 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Eross</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Helionis</span></h1>
 <p align="center">
   <b>Digital Nomad & Software Engineer passionate about Blockchain and AI</b><br>
-  <img src="https://img.shields.io/badge/Solana-Blockchain-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?style=flat-square" />
-  <img src="https://img.shields.io/badge/ICP-Blockchain-ff6f00?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square" />
-  <img src="https://img.shields.io/badge/React.js-Expert-61DAFB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square" />
 </p>
 
 ---
@@ -21,7 +14,7 @@
 
 ---
 
-<h2 align="center" style="color:#ffb300;"><a href="https://github.com/eross220/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;">👉 🏆 <b>My Past Works</b> 🏆 👈</a> </h2>
+<h2 align="center" style="color:#ffb300;"><a href="https://github.com/helionis420/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;">👉 🏆 <b>My Past Works</b> 🏆 👈</a> </h2>
 
 <div align="center">
   <b>
@@ -39,8 +32,8 @@
 ---
 ## 📫 Contact Me
 <p align="center">
-  <b>Email:</b> <a href="mailto:eross220@gmail.com">eross220@proton.me</a><br>
-  <b>Discord:</b> <code>0x_eross220</code>
+  <b>Email:</b> <a href="mailto:businesswork0420@gmail.com">businesswork0420@gmail.com</a><br>
+  <b>Discord:</b> <code>helionis420</code>
 </p>
 
 
