@@ -1,19 +1,4 @@
 <h1 align="center">Hi there 👋, I'm <span style="color:#007acc;">Helionis</span></h1>
-<p align="center">
-  <b>Digital Nomad & Software Engineer passionate about Blockchain and AI</b><br>
-</p>
-
----
-
-## 🚀 About Me
-
-- 🧑‍💻 Full Stack & Blockchain Developer (Solana, Ethereum, ICP)
-- 🛠️ Python (FastAPI, Django, Flask), Node.js, React.js, Next.js
-- 🤖 AI/LLM: Langchain, RAG, AI Chatbots
-- 🌍 Digital nomad, always learning and building
-
----
-
 <h2 align="center" style="color:#ffb300;"><a href="https://github.com/helionis420/-My-Projects-" style="font-size:1.2em; font-weight:bold; color:#007acc;">👉 🏆 <b>My Past Works</b> 🏆 👈</a> </h2>
 
 <div align="center">
@@ -24,8 +9,6 @@
   <br><br>
    🤝 💕 👀 <b>Follow me via Git</b> 👪 💖 <br>
 </div>
-
-
 
 <!-- (Your project list goes here, as already in your README) -->
 
