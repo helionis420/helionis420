@@ -13,7 +13,7 @@
 <!-- (Your project list goes here, as already in your README) -->
 
 ---
-## 📫 Contact Me
+## Contact Me
 <p align="center">
   <b>Email:</b> <a href="mailto:businesswork0420@gmail.com">businesswork0420@gmail.com</a><br>
   <b>Discord:</b> <code>helionis420</code>
